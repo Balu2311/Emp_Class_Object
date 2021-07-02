@@ -1,0 +1,12 @@
+G:\Bridgelab\EmpWage\EmpWagePractice\bin\Debug\netcoreapp3.1\EmpWagePractice.exe
+G:\Bridgelab\EmpWage\EmpWagePractice\bin\Debug\netcoreapp3.1\EmpWagePractice.deps.json
+G:\Bridgelab\EmpWage\EmpWagePractice\bin\Debug\netcoreapp3.1\EmpWagePractice.runtimeconfig.json
+G:\Bridgelab\EmpWage\EmpWagePractice\bin\Debug\netcoreapp3.1\EmpWagePractice.runtimeconfig.dev.json
+G:\Bridgelab\EmpWage\EmpWagePractice\bin\Debug\netcoreapp3.1\EmpWagePractice.dll
+G:\Bridgelab\EmpWage\EmpWagePractice\bin\Debug\netcoreapp3.1\EmpWagePractice.pdb
+G:\Bridgelab\EmpWage\EmpWagePractice\obj\Debug\netcoreapp3.1\EmpWagePractice.AssemblyInfoInputs.cache
+G:\Bridgelab\EmpWage\EmpWagePractice\obj\Debug\netcoreapp3.1\EmpWagePractice.AssemblyInfo.cs
+G:\Bridgelab\EmpWage\EmpWagePractice\obj\Debug\netcoreapp3.1\EmpWagePractice.csproj.CoreCompileInputs.cache
+G:\Bridgelab\EmpWage\EmpWagePractice\obj\Debug\netcoreapp3.1\EmpWagePractice.dll
+G:\Bridgelab\EmpWage\EmpWagePractice\obj\Debug\netcoreapp3.1\EmpWagePractice.pdb
+G:\Bridgelab\EmpWage\EmpWagePractice\obj\Debug\netcoreapp3.1\EmpWagePractice.genruntimeconfig.cache
